@@ -16,6 +16,7 @@ To get started with the project, follow these steps:
 
 ```bash
 git clone 'https://github.com/llyxanda/BTH-mvc'
+```
 
 ## Usage
 1. Go to the repo folder, in the app subfolder
@@ -23,3 +24,4 @@ git clone 'https://github.com/llyxanda/BTH-mvc'
 
 ```bash
 php -S localhost:8888 -t public
+```
